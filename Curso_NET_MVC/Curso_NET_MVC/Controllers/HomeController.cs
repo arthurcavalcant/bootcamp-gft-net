@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Curso_NET_MVC.Models;
+using projetoMVC.Models;
 
-namespace Curso_NET_MVC.Controllers
+namespace projetoMVC.Controllers
 {
     public class HomeController : Controller
     {
