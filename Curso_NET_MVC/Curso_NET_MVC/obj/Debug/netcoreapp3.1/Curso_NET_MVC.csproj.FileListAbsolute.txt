@@ -1,12 +1,12 @@
+C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\bin\Debug\netcoreapp3.1\Curso_NET_MVC.exe
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Curso_NET_MVC.csprojAssemblyReference.cache
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Curso_NET_MVC.RazorAssemblyInfo.cache
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Curso_NET_MVC.RazorAssemblyInfo.cs
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Curso_NET_MVC.AssemblyInfoInputs.cache
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Curso_NET_MVC.AssemblyInfo.cs
-C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\bin\Debug\netcoreapp3.1\Curso_NET_MVC.exe
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Curso_NET_MVC.TagHelpers.input.cache
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Curso_NET_MVC.TagHelpers.output.cache
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Curso_NET_MVC.RazorCoreGenerate.cache
@@ -164,3 +164,8 @@ C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
 C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\arthu\bootcamp_gft_net\Curso_NET_MVC\Curso_NET_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs

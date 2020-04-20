@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace projetoMVC
+namespace Curso_NET_MVC
 {
     public class Program
     {
